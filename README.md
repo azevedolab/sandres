@@ -5,6 +5,7 @@ http://sandres.net/
 
 
 Overview 
+
 Make molecular docking reliable, fast, easy, free, and funny with SAnDReS. It is the easiest way to run dependable protein-ligand docking simulations. SAnDReS takes a different approach to docking; it focuses on the simulation of a system composed of an ensemble of crystallographic structures for which ligand binding affinity data is available. This experimental data is used to train a scoring function, specific for the biological system of interest (ensemble of structures with binding affinity data). In doing so, SAnDReS explores the scoring function space (Heck et al., 2017), selecting an adequate scoring function to predict binding affinity and to analyze docking results.  
 SAnDReS is a free and open-source (GNU General Public License) computational environment for the development of machine-learning models for prediction of ligand-binding affinity. SAnDReS is also a tool for statistical analysis of docking simulations and evaluation of the predictive performance of computational models developed to calculate binding affinity. SAnDReS is an acronym for Statistical Analysis of Docking Results and Scoring Functions. We have successfully employed SAnDReS to study coagulation factor Xa (Xavier et al., 2016), cyclin-dependent kinases (de Ávila et al., 2017; Levin et al., 2018), HIV-1 protease (Pintro & de Azevedo, 2017), estrogen receptor (Amaral et al., 2018), cannabinoid receptor 1 (Russo & de Azevedo, 2018), and 3-dehydroquinate dehydratase (de Ávila & de Azevedo, 2018).     
 
