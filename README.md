@@ -15,7 +15,7 @@ You need to have Python 3 installed on your computer to run SAnDReS. In addition
 
 You can make the installation process easier by installing Anaconda. 
 
-Step 1. Install Anaconda (available here: https://www.anaconda.com/download/)
+Step 1. Install Anaconda 32 bits (available here: https://www.anaconda.com/download/)
 
 Step 2. Download SAnDReS 1.1.0 (available here:https://github.com/azevedolab/sandres/raw/master/sandres.zip )
 
