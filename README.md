@@ -31,7 +31,8 @@ This launches GUI window for SAnDReS. That´s it, good SAnDReS session. See tuto
 
 
 DeltaG Dataset
-Here you find a zip file () with all necessary files to generate a machine-learning model to predict Gibbs free energy of binding for protein-ligand complexes as described by Bitencourt-Ferreira & de Azevedo Jr, 2018.
+
+Here you find a zip file (https://github.com/azevedolab/sandres/blob/master/Bitencourt-Ferreira_de_Azevedo_Jr_DeltaG_2018.zip) with all necessary files to generate a machine-learning model to predict Gibbs free energy of binding for protein-ligand complexes as described by Bitencourt-Ferreira & de Azevedo Jr, 2018.
 
 
 Tutorials
