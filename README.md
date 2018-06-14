@@ -34,9 +34,24 @@ DeltaG Dataset
 
 Here you find a zip file (https://github.com/azevedolab/sandres/blob/master/Bitencourt-Ferreira_de_Azevedo_Jr_DeltaG_2018.zip) with all necessary files to generate a machine-learning model to predict Gibbs free energy of binding for protein-ligand complexes as described by Bitencourt-Ferreira & de Azevedo Jr., 2018.
 
+
+HRIC50 Dataset
+
+Here you find a zip file (https://github.com/azevedolab/sandres/blob/master/de_Avila_et_al_HRIC50_Biochem_Biophys_Res_Commun_2017_494_1-2_305_310.zip) with all necessary files to generate a machine-learning model to predict the IC50 as described by de Ávila et al., 2017.
+
+
+CDK IC50 Dataset
+
+Here you find a zip file (https://github.com/azevedolab/sandres/blob/master/Levin_et_al_CDK_IC50_Biophys_Chem_2018_2351_8.zip) with all necessary files to generate a machine-learning model to predict the IC50 for CDK as described by Levin et al., 2018.
+
+
 HIV-1 Protease Dataset
 
 Here you find a zip file (https://github.com/azevedolab/sandres/blob/master/Pintro_Azevedo_HIV1_PR_Comb_Chem_High_Throughput_Screen_2017.zip) with all necessary files to generate a machine-learning model to predict the inhibition constant (Ki) for protease-ligand complexes as described by Pintro & de Azevedo Jr., 2017.
+
+Xa Dataset
+
+Here you find a zip file (https://github.com/azevedolab/sandres/blob/master/Xavier_et_al_Xa_Comb_Chem_High_Throughput_Screen_2016_19_10_801_812.zip) with all necessary files to generate a machine-learning model to predict the inhibition constant (Ki) for coagulation factor Xa as described by Xavier et al., 2016.
 
 
 
