@@ -45,6 +45,11 @@ CDK IC50 Dataset
 Here you find a zip file (https://github.com/azevedolab/sandres/blob/master/Levin_et_al_CDK_IC50_Biophys_Chem_2018_2351_8.zip) with all necessary files to generate a machine-learning model to predict the IC50 for CDK as described by Levin et al., 2018.
 
 
+CDK Ki Dataset
+
+Here you find a zip file (https://github.com/azevedolab/sandres/blob/master/Azevedo_2018_CDK_Ki.zip) with all necessary files to generate a machine-learning model to predict the inhibition constant (Ki) for CDK.
+
+
 HIV-1 Protease Dataset
 
 Here you find a zip file (https://github.com/azevedolab/sandres/blob/master/Pintro_Azevedo_HIV1_PR_Comb_Chem_High_Throughput_Screen_2017.zip) with all necessary files to generate a machine-learning model to predict the inhibition constant (Ki) for protease-ligand complexes as described by Pintro & de Azevedo Jr., 2017.
