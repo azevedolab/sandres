@@ -36,7 +36,7 @@ Here you find a zip file (https://github.com/azevedolab/sandres/blob/master/Bite
 
 HIV-1 Protease Dataset
 
-Here you find a zip file (https://github.com/azevedolab/sandres/blob/master/Pintro_Azevedo_HIV1_PR_Comb_Chem_High_Throughput_Screen_2017.zip) with all necessary files to generate a machine-learning model to inhibition constant (Ki) for protease-ligand complexes as described by Pintro & de Azevedo Jr., 2017.
+Here you find a zip file (https://github.com/azevedolab/sandres/blob/master/Pintro_Azevedo_HIV1_PR_Comb_Chem_High_Throughput_Screen_2017.zip) with all necessary files to generate a machine-learning model to predict the inhibition constant (Ki) for protease-ligand complexes as described by Pintro & de Azevedo Jr., 2017.
 
 
 
