@@ -1,4 +1,4 @@
-# sandres
+# SAnDReS
 Statistical Analysis of Docking Results and Scoring Functions (SAnDReS)
 
 http://sandres.net/
