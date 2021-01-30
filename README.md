@@ -2,6 +2,12 @@
 Statistical Analysis of Docking Results and Scoring Functions (SAnDReS)
 https://azevedolab.net/sandres.php
 <P>&nbsp;</P>
+<B>Message posted on January 30, 2021.</B>    
+
+Warning! Due to recent changes in the protein data bank, we had to update all programs that we developed. The PDB updated information about binding affinity data, and all download python scripts of Taba, SAnDReS, and SFSXplorer do not work anymore. I am working on the update of all these programs, and soon I will release new versions. Thank you very much for your patience.
+January 30, 2021.
+                                            Prof. Walter F. de Azevedo, Jr.
+                                            I am a free thinker influencing science and technology.
 <P>&nbsp;</P>
 <H2>Citation</H2>
 Please cite the following reference (Xavier et al., 2016) if SAnDReS program was useful.  
