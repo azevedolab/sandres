@@ -9,7 +9,7 @@ Thank you very much for your patience.
 
 <P>&nbsp;</P>
                                             Dr. Walter F. de Azevedo, Jr.
-                                            I am a free thinker influencing science and technology.
+                                            
 <P>&nbsp;</P>
 <P>&nbsp;</P>
 
