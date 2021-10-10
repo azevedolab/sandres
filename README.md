@@ -29,7 +29,7 @@ Step 2. Install AutoDock Vina (available here:  http://vina.scripps.edu/download
 
 Step 3. Download SAnDReS 2.0 (available here:https://github.com/azevedolab/sandres/raw/master/sandres2.zip)
 
-Step 4. Download database for ligands with IC50 data (available here: )
+Step 4. Download database for ligands with IC50 data (available here:https://github.com/azevedolab/sandres/blob/master/IC50.zip)
 
 Step 5. Download database for ligands with Kd data (available here: )
 
