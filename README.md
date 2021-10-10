@@ -19,21 +19,21 @@ SAnDReS is a free and open-source (GNU General Public License) computational env
 
 <H2>Installing SAnDReS 2.0 without Installers (Linux)</H2>  
 
-You need to have Python 3 installed on your computer to run SAnDReS. In addition, you also need NumPy, Matplotlib, scikit-learn, and SciPy. It is also necessary to have AutoDock Vina installed in your computer (available here: http://vina.scripps.edu/download.html).
+You need to have Python 3 installed on your computer to run SAnDReS 2.0. In addition, you also need NumPy, Matplotlib, scikit-learn, and SciPy. It is also necessary to have AutoDock Vina installed in your computer (available here: http://vina.scripps.edu/download.html).
 
 You can make the installation process easier by installing Anaconda. 
 
 Step 1. Install Anaconda (available here: https://www.anaconda.com/download/)
 
-Step 2. Install AutoDock Vina (available here:  http://vina.scripps.edu/download.html)
+Step 2. Install AutoDock Vina (available here: http://vina.scripps.edu/download.html)
 
-Step 3. Download SAnDReS 2.0 (available here:https://github.com/azevedolab/sandres/raw/master/sandres2.zip)
+Step 3. Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sandres/raw/master/sandres2.zip)
 
-Step 4. Download database for ligands with IC50 data (available here:https://github.com/azevedolab/sandres/blob/master/IC50.zip)
+Step 4. Download database for ligands with IC50 data (available here: https://github.com/azevedolab/sandres/blob/master/IC50.zip)
 
-Step 5. Download database for ligands with Kd data (available here: )
+Step 5. Download database for ligands with Kd data (available here: https://github.com/azevedolab/sandres/blob/master/Kd.zip)
 
-Step 6. Download database for ligands with Ki data (available here: )
+Step 6. Download database for ligands with Ki data (available here: https://github.com/azevedolab/sandres/blob/master/Ki.zip)
 
 Step 7. Unzip the all zipped files (sandres2.zip, IC50.zip, Kd.zip, and Ki.zip) 
 
