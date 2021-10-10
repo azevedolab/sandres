@@ -27,13 +27,21 @@ Step 1. Install Anaconda (available here: https://www.anaconda.com/download/)
 
 Step 2. Install AutoDock Vina (available here:  http://vina.scripps.edu/download.html)
 
-Step 3. Download SAnDReS 2.0 (available here:https://github.com/azevedolab/sandres/raw/master/sandres2.zip )
+Step 3. Download SAnDReS 2.0 (available here:https://github.com/azevedolab/sandres/raw/master/sandres2.zip)
 
-Step 3. Unzip the zipped file (sandres2.zip): unzip sandres2.zip 
+Step 4. Download database for ligands with IC50 data (available here: )
 
-Step 4. Copy sandres directory to wherever you want it.
+Step 5. Download database for ligands with Kd data (available here: )
 
-Step 5. Open a terminal and cd to sandres2 directory.
+Step 6. Download database for ligands with Ki data (available here: )
+
+Step 7. Unzip the all zipped files (sandres2.zip, IC50.zip, Kd.zip, and Ki.zip) 
+
+Step 8. Copy sandres directory to wherever you want it.
+
+Step 9. Copy IC50, Kd, and Ki directories to sandres2/misc/data/pdbqt.
+
+Step 10. Open a terminal and cd to sandres2 directory.
 
 then type: python run_program.py
 
