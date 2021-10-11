@@ -31,7 +31,7 @@ Step 5. Unzip the zipped directory (sandres2.zip)
 
 Step 6. Copy sandres2 directory to wherever you want it.
 
-Step 7. Open a terminal and cd to sandres2 directory.then type: python run_program.py 
+Step 7. Open a terminal and cd to sandres2 directory then type: python run_program.py 
 
 This launches GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By November/2021 we will have a tutorial page for additional information about how to run SAnDReS. 
 
