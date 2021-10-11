@@ -4,12 +4,10 @@ https://azevedolab.net/sandres.php
 <P>&nbsp;</P>
 <B>Message posted on October 10, 2021.</B>    
 
-SAnDReS 2.0 is now available for download. Right now, only Linux version. This month (October/2021), I will upload the new Windows versions.  
+SAnDReS 2.0 is now available for download. Right now, only Linux version is ready. This month (October/2021), I will upload the new Windows version.  
 Thank you very much for your patience.
-
 <P>&nbsp;</P>
-                                            Dr. Walter F. de Azevedo, Jr.
-                                            
+                                            Dr. Walter F. de Azevedo, Jr.      
 <P>&nbsp;</P>
 <P>&nbsp;</P>
 
