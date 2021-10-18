@@ -5,25 +5,24 @@ https://azevedolab.net/sandres.php
 <H2>Overview</H2>
 SAnDReS (Statistical Analysis of Docking Results and Scoring functions) draws inspiration from several protein systems that we have been working on in the last decades. These projects began in the 1990s with pioneering studies focused on intermolecular interactions between cyclin-dependent kinase (CDK) (EC 2.7.11.22) and inhibitors (de Azevedo et al., 1996; de Azevedo et al., 1997). SAnDReS is a free and open-source (GNU General Public License) computational environment for the development of machine-learning models (Bitencourt-Ferreira & de Azevedo, 2019; Bitencourt-Ferreira et al., 2021; Bitencourt-Ferreira, Rizzotto et al., 2021) for the prediction of ligand-binding affinity (Xavier et al., 2016; Bitencourt-Ferreira & de Azevedo, 2019; Veit-Acosta & de Azevedo, 2021). We developed SAnDReS using Python programming language, and SciPy, NumPy, scikit-learn (Pedregosa et al., 2011), and Matplotlib libraries as a computational tool to explore the scoring function space (Heck et al., 2017; Bitencourt-Ferreira & de Azevedo, 2019). SAnDReS 1.0 has been applied to several protein systems and has over 80 citations. SAnDReS 2.0 is now available to download (Linux versionavailable here: https://azevedolab.net/resources/sandres2.zip).
 
-<H2>Installing SAnDReS 2.0 (Linux)</H2>  
-You need to have Python 3 installed on your computer to run SAnDReS 2.0. In addition, you also need Matplotlib, NumPy, scikit-learn, SciPy, and XGBoost. It is also necessary to have AutoDock Vina installed in your computer. You can make the installation process easier by installing Anaconda.
+<P>&nbsp;</P>
 
+<H2>Installing SAnDReS 2.0 (Linux)</H2>  
+You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you also need Matplotlib, NumPy, scikit-learn, SciPy, and XGBoost. It is also necessary to have AutoDock Vina installed on your computer. You can make the installation of Python packages faster by installing Anaconda. 
+<P>&nbsp;</P>
 Step 1. Install Anaconda (available here: https://www.anaconda.com/download/)
 
 Step 2. Install AutoDock Vina (available here: http://vina.scripps.edu/download.html)
 
 Step 3. Install XGBoost (available here: https://xgboost.readthedocs.io/en/latest/install.html#python)
 
-Step 4. Download SAnDReS 2.0 (available here: https://azevedolab.net/resources/sandres2.zip)
+Step 4. Download SAnDReS 2.0 (available here: https://azevedolab.net/resources/sandres2.zip). Unzip the zipped directory (sandres2.zip) and move the sandres2 directory to wherever you want it.
 
-Step 5. Unzip the zipped directory (sandres2.zip)
+Step 5. Open a terminal and cd to sandres2 directory then, type: python run_program.py 
 
-Step 6. Move sandres2 directory to wherever you want it.
+Now we have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By November 2021, we will have a tutorial page for additional information about how to run SAnDReS.
 
-Step 7. Open a terminal and cd to sandres2 directory then type: python run_program.py 
-
-This launches GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By November/2021 we will have a tutorial page for additional information about how to run SAnDReS. 
-
+<P>&nbsp;</P>
 <H2>Related Publications</H2>
 
 -Amaral MEA, Nery LR, Leite CE, de Azevedo Junior WF, Campos MM. Pre-clinical effects of metformin and aspirin on the cell lines of different breast cancer subtypes. Invest New Drugs. 2018; 36(5): 782–796.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29392539">PubMed</a>
