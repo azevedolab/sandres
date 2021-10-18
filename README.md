@@ -23,28 +23,26 @@ Step 5. Open a terminal and cd to sandres2 directory then, type: python run_prog
 Now we have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By November 2021, we will have a tutorial page for additional information about how to run SAnDReS.
 <P>&nbsp;</P>
 <P>&nbsp;</P>
-<H2>Related Publications</H2>
+<H2>References</H2>
 
--Amaral MEA, Nery LR, Leite CE, de Azevedo Junior WF, Campos MM. Pre-clinical effects of metformin and aspirin on the cell lines of different breast cancer subtypes. Invest New Drugs. 2018; 36(5): 782–796.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29392539">PubMed</a>
+-Bitencourt-Ferreira G, de Azevedo WF Jr. SAnDReS: A Computational Tool for Docking. Methods Mol Biol. 2019; 2053: 51–65.   <a href="https://pubmed.ncbi.nlm.nih.gov/31452098/">PubMed</a>   
 
--Bitencourt-Ferreira G, de Azevedo Jr. WF. Development of a machine-learning model to predict Gibbs free energy of binding for protein-ligand complexes. Biophys Chem. 2018; 240: 63–69.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29906639">PubMed</a>
+-Bitencourt-Ferreira G, de Azevedo WF Jr. Machine Learning to Predict Binding Affinity. Methods Mol Biol. 2019; 2053: 251–273.   <a href="https://pubmed.ncbi.nlm.nih.gov/31452110/">PubMed</a>   
 
--Bitencourt-Ferreira G, de Azevedo WF Jr. SAnDReS: A Computational Tool for Docking.In: de Azevedo Jr. W. (eds) Docking Screens for Drug Discovery. Methods in Molecular Biology, 2019; 2053:51–65. Humana, New York, NY doi: 10.1007/978-1-4939-9752-7_4.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/31452098">PubMed</a>
+-Bitencourt-Ferreira G, de Azevedo WF Jr. Exploring the Scoring Function Space. Methods Mol Biol. 2019; 2053: 275–281.   <a href="https://pubmed.ncbi.nlm.nih.gov/31452111/">PubMed</a>   
 
--De Ávila MB, Xavier MM, Pintro VO, de Azevedo WF. Supervised machine learning techniques to predict binding affinity. A study for cyclin-dependent kinase 2.  Biochem Biophys Res Commun. 2017; 494: 305–310.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29017921">PubMed</a>  
-   
--De Ávila MB, de Azevedo WF Jr. Development of machine learning models to predict inhibition of 3-dehydroquinate dehydratase. Chem Biol Drug Des. 2018; 92: 1468–1474.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29676519">PubMed</a>
+-Bitencourt-Ferreira G, da Silva AD, de Azevedo WF Jr. Application of Machine Learning Techniques to Predict Binding Affinity for Drug Targets. A Study of Cyclin-Dependent Kinase 2. Curr Med Chem. 2021; 28(2): 253–265.   <a href="https://pubmed.ncbi.nlm.nih.gov/31729287/">PubMed</a>   
 
--Heck GS, Pintro VO, Pereira RR, de Ávila MB, Levin NMB, de Azevedo WF. Supervised Machine Learning Methods Applied to Predict Ligand-Binding Affinity. Curr Med Chem. 2017; 24(23): 2459–2470.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/28641555">PubMed</a>
+-Bitencourt-Ferreira G, Rizzotto C, de Azevedo Junior WF. Machine Learning-Based Scoring Functions. Development and Applications With SAnDReS. Curr Med Chem. 2021; 28(9): 1746–1756.   <a href="https://pubmed.ncbi.nlm.nih.gov/32410551/">PubMed</a>   
 
--Levin NMB, Pintro VO, Bitencourt-Ferreira G, Mattos BB, Silvério AC, de Azevedo Jr. WF. Development of CDK-targeted scoring functions for prediction of binding affinity. Biophys Chem. 2018; 235: 1–8.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29407904">PubMed</a>
+-De Azevedo WF Jr, Mueller-Dieckmann HJ, Schulze-Gahmen U, Worland PJ, Sausville E, Kim SH. Structural basis for specificity and potency of a flavonoid inhibitor of human CDK2, a cell cycle kinase. Proc Natl Acad Sci U S A. 1996; 93(7): 2735–2740.   <a href="https://pubmed.ncbi.nlm.nih.gov/8610110/">PubMed</a>   
 
--Pedregosa F, Varoquaux G, Gramfort A, Michel V, Thirion B, Grisel O, Blondel M, Prettenhofer P, Weiss R, Dubourg V, Verplas J, Passos A, Cournapeau D, Brucher M, Perrot M, Duchesnay E. Scikit-learn: Machine Learning in Python. J Mach Learn Res. 2011; 12: 2825–2830.
+-De Azevedo WF, Leclerc S, Meijer L, Havlicek L, Strnad M, Kim SH. Inhibition of cyclin-dependent kinases by purine analogues: crystal structure of human cdk2 complexed with roscovitine. Eur J Biochem. 1997; 243(1-2): 518–526.   <a href="https://pubmed.ncbi.nlm.nih.gov/9030780/">PubMed</a>
 
--Pintro VO, Azevedo WF. Optimized Virtual Screening Workflow. Towards Target-Based Polynomial Scoring Functions for HIV-1 Protease. Comb Chem High Throughput Screen. 2017; 20(9): 820–827.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29165067">PubMed</a>
+-Heck GS, Pintro VO, Pereira RR, de Ávila MB, Levin NMB, de Azevedo WF. Supervised Machine Learning Methods Applied to Predict Ligand-Binding Affinity. Curr Med Chem. 2017; 24(23): 2459–2470.   <a href="https://pubmed.ncbi.nlm.nih.gov/28641555/">PubMed</a>   
+
+-Pedregosa F, Varoquaux G, Gramfort A, Michel V, Thirion B, Grisel O, Blondel M, Prettenhofer P, Weiss R, Dubourg V, Verplas J, Passos A, Cournapeau D, Brucher M, Perrot M, Duchesnay E. Scikit-learn: Machine Learning in Python. J Mach Learn Res. 2011; 12: 2825–2830.   <a href="https://www.jmlr.org/papers/volume12/pedregosa11a/pedregosa11a.pdf">PDF</a>    
+
+-Veit-Acosta M, de Azevedo Junior WF. The Impact of Crystallographic Data for the Development of Machine Learning Models to Predict Protein-Ligand Binding Affinity. Curr Med Chem. doi: 10.2174/0929867328666210210121320.   <a href="https://pubmed.ncbi.nlm.nih.gov/33568025/">PubMed</a>   
   
--Russo S, De Azevedo WF. Advances in the Understanding of the Cannabinoid Receptor 1 - Focusing on the Inverse Agonists Interactions. Curr Med Chem. 2019; 26(10): 1908–1919.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29667549">PubMed</a>
-
--Volkart PA, Bitencourt-Ferreira G, Souto AA, de Azevedo WF. Cyclin-Dependent Kinase 2 in Cellular Senescence and Cancer. A Structural and Functional Review. Curr Drug Targets. 2019; 20(7): 716–726.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/30516105">PubMed</a>
-
 -Xavier MM, Heck GS, de Avila MB, Levin NM, Pintro VO, Carvalho NL, Azevedo WF Jr. SAnDReS a Computational Tool for Statistical Analysis of Docking Results and Development of Scoring Functions. Comb Chem High Throughput Screen. 2016; 19(10): 801–812.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/27686428">PubMed</a>
