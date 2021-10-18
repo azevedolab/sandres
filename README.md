@@ -39,6 +39,8 @@ Now we have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By
 
 -Levin NMB, Pintro VO, Bitencourt-Ferreira G, Mattos BB, Silvério AC, de Azevedo Jr. WF. Development of CDK-targeted scoring functions for prediction of binding affinity. Biophys Chem. 2018; 235: 1–8.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29407904">PubMed</a>
 
+-Pedregosa F, Varoquaux G, Gramfort A, Michel V, Thirion B, Grisel O, Blondel M, Prettenhofer P, Weiss R, Dubourg V, Verplas J, Passos A, Cournapeau D, Brucher M, Perrot M, Duchesnay E. Scikit-learn: Machine Learning in Python. J Mach Learn Res. 2011; 12: 2825–2830.
+
 -Pintro VO, Azevedo WF. Optimized Virtual Screening Workflow. Towards Target-Based Polynomial Scoring Functions for HIV-1 Protease. Comb Chem High Throughput Screen. 2017; 20(9): 820–827.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29165067">PubMed</a>
   
 -Russo S, De Azevedo WF. Advances in the Understanding of the Cannabinoid Receptor 1 - Focusing on the Inverse Agonists Interactions. Curr Med Chem. 2019; 26(10): 1908–1919.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29667549">PubMed</a>
