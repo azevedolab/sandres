@@ -16,7 +16,7 @@ Step 4. Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sand
 <P>&nbsp;</P>
 Step 5. Open a terminal and cd to sandres2 directory then, type: python run_program.py 
 <P>&nbsp;</P>
-Now we have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By November 2021, we will have a tutorial page for additional information about how to run SAnDReS.
+Now we have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By December 2021, we will have a tutorial page for additional information about how to run SAnDReS.
 <P>&nbsp;</P>
 <H2>Installing SAnDReS 2.0 (Windows)</H2>  
 <P>&nbsp;</P>
@@ -30,4 +30,4 @@ Step 4. Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sand
 <P>&nbsp;</P>
 Step 5. Open a terminal and cd to sandres2_win directory then, type: python run_program.py 
 <P>&nbsp;</P>
-Now we have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By November 2021, we will have a tutorial page for additional information about how to run SAnDReS. This version has been tested on Windows 10.
+Now we have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By December 2021, we will have a tutorial page for additional information about how to run SAnDReS. This version has been tested on Windows 10.
