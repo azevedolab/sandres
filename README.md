@@ -12,7 +12,7 @@ Step 2. Install AutoDock Vina 1.1.2* (available here: https://github.com/azevedo
 <P>&nbsp;</P>
 Step 3. Install XGBoost (available here: https://xgboost.readthedocs.io/en/latest/install.html#python)
 <P>&nbsp;</P>
-Step 4. Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Move the sandres2 zipped directory to wherever you want it and unzip the zipped directory (sandres2.zip).
+Step 4. Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory.
 <P>&nbsp;</P>
 Step 5. Open a terminal and cd to sandres2 directory then, type: python run_program.py 
 <P>&nbsp;</P>
@@ -26,7 +26,7 @@ Step 2. Install MGLTools (available here: https://ccsb.scripps.edu/mgltools/down
 <P>&nbsp;</P>
 Step 3. Install XGBoost (available here: https://xgboost.readthedocs.io/en/latest/install.html#python)
 <P>&nbsp;</P>
-Step 4. Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sandres/raw/master/sandres2_win.zip). Unzip the zipped directory (sandres2_win.zip) and move the sandres2_win directory to wherever you want it.
+Step 4. Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sandres/raw/master/sandres2_win.zip). Copy the sandres2_win zipped directory (sandres2_win.zip) to wherever you want it and unzip the zipped directory.
 <P>&nbsp;</P>
 Step 5. Open a terminal and cd to sandres2_win directory then, type: python run_program.py 
 <P>&nbsp;</P>
