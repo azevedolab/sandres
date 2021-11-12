@@ -4,11 +4,11 @@ https://azevedolab.net/sandres.php
 <P>&nbsp;</P>
 <P>&nbsp;</P>
 <H2>Installing SAnDReS 2.0 (Linux)</H2>  
-You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you also need Matplotlib, NumPy, scikit-learn, SciPy, and XGBoost. It is also necessary to have MGLTools installed on your computer. You can make the installation of Python packages faster by installing Anaconda. 
+You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you also need Matplotlib, NumPy, scikit-learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.6 installed on your computer. You can make the installation of Python packages faster by installing Anaconda. 
 <P>&nbsp;</P>
 Step 1. Install Anaconda (available here: https://www.anaconda.com/download/)
 <P>&nbsp;</P>
-Step 2. Install MGLTools (https://ccsb.scripps.edu/mgltools/downloads/)
+Step 2. Install MGLTools 1.5.6 (https://ccsb.scripps.edu/mgltools/downloads/)
 <P>&nbsp;</P>
 Step 3. Install XGBoost (available here: https://xgboost.readthedocs.io/en/latest/install.html#python)
 <P>&nbsp;</P>
@@ -22,7 +22,7 @@ Now we have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By
 <P>&nbsp;</P>
 Step 1. Install Anaconda (available here: https://www.anaconda.com/download/)
 <P>&nbsp;</P>
-Step 2. Install MGLTools (available here: https://ccsb.scripps.edu/mgltools/downloads/)
+Step 2. Install MGLTools 1.5.6 (available here: https://ccsb.scripps.edu/mgltools/downloads/)
 <P>&nbsp;</P>
 Step 3. Install XGBoost (available here: https://xgboost.readthedocs.io/en/latest/install.html#python)
 <P>&nbsp;</P>
