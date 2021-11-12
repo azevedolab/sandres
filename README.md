@@ -32,4 +32,4 @@ Step 5. Open a terminal and cd to sandres2_win directory then, type: python run_
 <P>&nbsp;</P>
 Now we have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By December 2021, we will have a tutorial page for additional information about how to run SAnDReS. This version has been tested on Windows 10.
 <P>&nbsp;</P>
-<P>*SAnDReS 2.0 uses AutoDock Vina 1.1.2. Recently, AutoDock Vina 1.2 has been released. The current version of SAnDReS relies on AutoDock 1.1.2 docking engine. Future developments of SAnDReS will integrate the latest version of AutoDock Vina.</P>
+<P>*SAnDReS 2.0 uses AutoDock Vina 1.1.2. Recently, AutoDock Vina 1.2 has been released (https://github.com/ccsb-scripps/AutoDock-Vina). The current version of SAnDReS relies on AutoDock 1.1.2 docking engine. Future developments of SAnDReS will integrate the latest version of AutoDock Vina.</P>
