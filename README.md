@@ -12,7 +12,7 @@ Step 2. Install MGLTools 1.5.6 (https://ccsb.scripps.edu/mgltools/downloads/)
 <P>&nbsp;</P>
 Step 3. Install XGBoost (available here: https://xgboost.readthedocs.io/en/latest/install.html#python)
 <P>&nbsp;</P>
-Step 4. Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory.
+Step 4. Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory. Type the following command: unzip sandres2.zip
 <P>&nbsp;</P>
 Step 5. Open a terminal and cd to sandres2 directory then, type: python run_program.py 
 <P>&nbsp;</P>
@@ -28,7 +28,7 @@ Step 3. Install XGBoost (available here: https://xgboost.readthedocs.io/en/lates
 <P>&nbsp;</P>
 Step 4. Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sandres/raw/master/sandres2_win.zip). Copy the sandres2_win zipped directory (sandres2_win.zip) to wherever you want it and unzip the zipped directory.
 <P>&nbsp;</P>
-Step 5. Open a terminal and cd to sandres2_win directory then, type: python run_program.py 
+Step 5. Open a prompt command and cd to sandres2_win directory then, type: python run_program.py 
 <P>&nbsp;</P>
 Now we have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By December 2021, we will have a tutorial page for additional information about how to run SAnDReS. This version has been tested on Windows 10.
 <P>&nbsp;</P>
