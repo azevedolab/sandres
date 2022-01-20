@@ -10,7 +10,7 @@ Step 1. Install Anaconda (available here: https://www.anaconda.com/download/)
 <P>&nbsp;</P>
 Step 2. Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)
 <P>&nbsp;</P>
-Step 3. Install Scikit-Learn 1.0.2 (available here: https://scikit-learn.org/stable/index.html). To be sure to have the right Scikit-Learn version to run SAnDReS 2.0, you may uninstall the current version typing:
+Step 3. Install Scikit-Learn 1.0.2 (available here: https://scikit-learn.org/stable/index.html). To be sure to have the right Scikit-Learn version to run SAnDReS 2.0, you may uninstall the current version. You open a terminal and type the following commands:
 <P>&nbsp;</P>
 <P><I>python3 -m pip uninstall scikit-learn</I></P>
 <P>&nbsp;</P>
