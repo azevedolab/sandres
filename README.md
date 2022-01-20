@@ -23,10 +23,10 @@ To check the Scikit-Learn you have, you may type:
 <P><I>python3</I></P>
 <P>&nbsp;</P>
 Then you enter:
-<P><I>>>> import sklearn
->>> print(sklearn.__version__)</I></P>
+<P><I>>>> import sklearn </P>
+<P>>>> print(sklearn.__version__)</I></P>
 You should get: 1.0.2
-To exit, you type:<I>>>> quit()</I>
+To exit, you type:<P><I>>>> quit()</I></P>
 <P>&nbsp;</P>
 Step 4. Install XGBoost (available here: https://xgboost.readthedocs.io/en/latest/install.html#python)
 <P>&nbsp;</P>
@@ -56,10 +56,10 @@ To check the Scikit-Learn you have, you may type:
 <P><I>python</I></P>
 <P>&nbsp;</P>
 Then you enter:
-<P><I>>>> import sklearn
->>> print(sklearn.__version__)</I></P>
+<P><I>>>> import sklearn </P>
+<P>>>> print(sklearn.__version__)</I></P>
 You should get: 1.0.2
-To exit, you type:<I>>>> quit()</I>
+To exit, you type:<P><I>>>> quit()</I></P>
 <P>&nbsp;</P>
 Step 4. Install XGBoost (available here: https://xgboost.readthedocs.io/en/latest/install.html#python)
 <P>&nbsp;</P>
