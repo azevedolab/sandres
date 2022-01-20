@@ -16,7 +16,7 @@ Step 3. Install Scikit-Learn 1.0.2 (available here: https://scikit-learn.org/sta
 <P>&nbsp;</P>
 Then you install the specific Scikit-Learn version:
 <P>&nbsp;</P>
-<P><I>python3 -m pip install scikit-learn==1.0.2/I></P>
+<P><I>python3 -m pip install scikit-learn==1.0.2</I></P>
 <P>&nbsp;</P>
 To check the Scikit-Learn you have, you may type:
 <P>&nbsp;</P>
