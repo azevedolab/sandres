@@ -5,10 +5,10 @@ https://azevedolab.net/sandres.php)
 You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you need Matplotlib, NumPy, scikit-learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.7 installed on your computer. You can make the installation of Python packages faster by installing Anaconda. 
 <P>&nbsp;</P>
 <H2>Installing SAnDReS 2.0 (Linux)</H2>  
-<P><B>Step 1.</B> Install Anaconda (available here: https://www.anaconda.com/download/)</P>
+<P><B>Step 1.</B> Install Anaconda (https://www.anaconda.com/download/)</P>
 <P><B>Step 2.</B> Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
 <P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have the right Scikit-Learn version to run SAnDReS 2.0; you open a terminal and run Python IDLE shell. Type the following command:
-<I>python3</I>
+  <P><I>python3</I></P>
 <P>Then you enter in the IDLE prompt:
 <I>>>>import sklearn</P>
 >>>print(sklearn.__version__)</I>
