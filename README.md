@@ -8,16 +8,16 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <P><B>Step 1.</B> Install Anaconda (available here: https://www.anaconda.com/download/)</P>
 <P><B>Step 2.</B> Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
 <P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have the right Scikit-Learn version to run SAnDReS 2.0; you open a terminal and run Python IDLE shell. Type the following command:
-<P><I>python3</I></P>
+<I>python3</I>
 <P>Then you enter in the IDLE prompt:
-<P><I>>>>import sklearn</P>
-<P>>>>print(sklearn.__version__)</I></P>
+<I>>>>import sklearn</P>
+>>>print(sklearn.__version__)</I>
 You should get the following message: 1.0.2 . To exit the Python IDLE shell, you type: 
-<P><I>>>>quit()</I></P>
+<I>>>>quit()</I>
 If you have version 1.0.2, it is fine. Go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
 <P>You open a terminal and type the following commands: 
-<P><I>python3 -m pip uninstall scikit-learn</I></P>
-<I>python3 -m pip install scikit-learn==1.0.2</I></P>
+<I>python3 -m pip uninstall scikit-learn</I>
+<I>python3 -m pip install scikit-learn==1.0.2</I>
 <P><B>Step 4.</B> Install XGBoost (available here: https://xgboost.readthedocs.io/en/latest/install.html#python)</P>
 <P><B>Step 5.</B> Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory. 
 <P>Type the following command: <I>unzip sandres2.zip</I></P>
