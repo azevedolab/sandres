@@ -7,14 +7,14 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <H2>Installing SAnDReS 2.0 (Linux)</H2>  
 <P><B>Step 1.</B> Install Anaconda (available here: https://www.anaconda.com/download/)</P>
 <P><B>Step 2.</B> Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
-<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have the right Scikit-Learn version to run SAnDReS 2.0; you open a terminal and run Python IDLE shell. 
-<P>Type the following command:
+<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have the right Scikit-Learn version to run SAnDReS 2.0; you open a terminal and run Python IDLE shell. Type the following command:
 <P><I>python3</I></P>
 <P>Then you enter in the IDLE prompt:
 <P><I>>>>import sklearn</P>
 <P>>>>print(sklearn.__version__)</I></P>
 You should get the following message: 1.0.2
-<P>To exit the Python IDLE shell, you type: <I>>>>quit()</I></P>
+To exit the Python IDLE shell, you type: 
+<P><I>>>>quit()</I></P>
 If you have version 1.0.2, it is fine. Go to the following step. Otherwise, you need to uninstall the current version. 
 <P>You open a terminal and type the following commands: 
 <P><I>python3 -m pip uninstall scikit-learn</I></P>
