@@ -1,6 +1,5 @@
 # SAnDReS 2.0
-Statistical Analysis of Docking Results and Scoring Functions 2.0 (SAnDReS 2.0)(
-https://azevedolab.net/sandres.php)
+Statistical Analysis of Docking Results and Scoring Functions 2.0 (SAnDReS 2.0)(https://azevedolab.net/sandres.php)
 <P>&nbsp;</P>
 You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you need Matplotlib, NumPy, scikit-learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.7 installed on your computer. You can make the installation of Python packages faster by installing Anaconda. 
 <P>&nbsp;</P>
@@ -31,5 +30,5 @@ You should get the following message: 1.0.2 . To exit the Python IDLE shell, you
 <P>Open a terminal and cd to sandres2 directory then, type: 
 
   <I>python3 sandres2.py</I></P> 
-<P>&nbsp;</P><P>
-<P>Now you have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By February 2022, we will have a tutorial page for additional information about how to run SAnDReS.</P>
+<P>&nbsp;</P>
+<P>Now you have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session! By February 2022, we will have a tutorial page for additional information about how to run SAnDReS.</P>
