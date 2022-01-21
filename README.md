@@ -34,5 +34,5 @@ You should get the following message: 1.0.2 . To exit the Python IDLE shell, you
   <P>Now you have the GUI window for SAnDReS 2.0.</P>
   <img src="https://github.com/azevedolab/sandres/blob/e31a1a7524f27a448b58706599b861578794b57a/sandres_2_Linux_view_01.png", title="SAnDReS 2.0 Main Menu">
   
-  SAnDReS 2.0 Main Menu</>
+  SAnDReS 2.0 Main Menu</img>
 <P>That´s it, good SAnDReS session! By February 2022, we will have a tutorial page for additional information about how to run SAnDReS.</P>
