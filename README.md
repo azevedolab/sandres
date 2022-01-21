@@ -12,10 +12,9 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <P>Then you enter in the IDLE prompt:
 <P><I>>>>import sklearn</P>
 <P>>>>print(sklearn.__version__)</I></P>
-You should get the following message: 1.0.2
-To exit the Python IDLE shell, you type: 
+You should get the following message: 1.0.2 . To exit the Python IDLE shell, you type: 
 <P><I>>>>quit()</I></P>
-If you have version 1.0.2, it is fine. Go to the following step. Otherwise, you need to uninstall the current version. 
+If you have version 1.0.2, it is fine. Go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
 <P>You open a terminal and type the following commands: 
 <P><I>python3 -m pip uninstall scikit-learn</I></P>
 <I>python3 -m pip install scikit-learn==1.0.2</I></P>
