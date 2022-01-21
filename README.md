@@ -17,7 +17,7 @@ You should get the following message: 1.0.2 . To exit the Python IDLE shell, you
 
 <I>quit()</I>
 
-  If you have version 1.0.2; go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
+  If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
 <P>You open a terminal and type the following commands: 
 
   <I>python3 -m pip uninstall scikit-learn</I>
