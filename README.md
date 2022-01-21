@@ -8,19 +8,19 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <P><B>Step 1.</B> Install Anaconda (available here: https://www.anaconda.com/download/)</P>
 <P><B>Step 2.</B> Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
 <P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have the right Scikit-Learn version to run SAnDReS 2.0; you open a terminal and run Python IDLE shell. 
-<P>Type the following command:<I>python3</I></P>
-<P>Then you enter in the IDLE prompt:<I>>>>import sklearn</P>
+<P>Type the following command: <I>python3</I></P>
+<P>Then you enter in the IDLE prompt: <I>>>>import sklearn</P>
 <P>>>>print(sklearn.__version__)</I></P>
 You should get the following message: 
 <P>1.0.2</P>
-<P>To exit the Python IDLE shell, you type:<I>>>>quit()</I></P>
+<P>To exit the Python IDLE shell, you type: <I>>>>quit()</I></P>
 If you have version 1.0.2, it is fine. Go to the following step. Otherwise, you need to uninstall the current version. 
-<P>You open a terminal and type the following commands:<I>python3 -m pip uninstall scikit-learn</I></P>
+<P>You open a terminal and type the following commands: <I>python3 -m pip uninstall scikit-learn</I></P>
 Then you install the Scikit-Learn version 1.0.2:
 <P><I>python3 -m pip install scikit-learn==1.0.2</I></P></P>
 <P><B>Step 4.</B> Install XGBoost (available here: https://xgboost.readthedocs.io/en/latest/install.html#python)</P>
 <P><B>Step 5.</B> Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory. 
-<P>Type the following command:<I>unzip sandres2.zip</I></P>
-<P>Open a terminal and cd to sandres2 directory then, type:<I>python3 sandres2.py</I></P> 
+<P>Type the following command: <I>unzip sandres2.zip</I></P>
+<P>Open a terminal and cd to sandres2 directory then, type: <I>python3 sandres2.py</I></P> 
 <P>&nbsp;</P><P>
 <P>Now you have the GUI window for SAnDReS 2.0. That´s it, good SAnDReS session. By February 2022, we will have a tutorial page for additional information about how to run SAnDReS.</P>
