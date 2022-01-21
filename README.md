@@ -16,9 +16,9 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 You should get the following message: 1.0.2
 <P>To exit the Python IDLE shell, you type: <I>>>>quit()</I></P>
 If you have version 1.0.2, it is fine. Go to the following step. Otherwise, you need to uninstall the current version. 
-<P>You open a terminal and type the following commands: <I>python3 -m pip uninstall scikit-learn</I></P>
-Then you install the Scikit-Learn version 1.0.2:
-<P><I>python3 -m pip install scikit-learn==1.0.2</I></P></P>
+<P>You open a terminal and type the following commands: 
+<P><I>python3 -m pip uninstall scikit-learn</I></P>
+<I>python3 -m pip install scikit-learn==1.0.2</I></P>
 <P><B>Step 4.</B> Install XGBoost (available here: https://xgboost.readthedocs.io/en/latest/install.html#python)</P>
 <P><B>Step 5.</B> Download SAnDReS 2.0 (available here: https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory. 
 <P>Type the following command: <I>unzip sandres2.zip</I></P>
