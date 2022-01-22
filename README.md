@@ -14,8 +14,9 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
   <P>Follow the instructions of the installer.</P>
 <P><B>Step 2.</B> Download MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
 <P> Open a terminal, and go to the home directory and type the following commands:
+  <I> </I> <I>
   
-  <I>cp Downloads/mgltools_Linux-x86_64_1.5.7_install .
+    cp Downloads/mgltools_Linux-x86_64_1.5.7_install .
 
     chmod 777 mgltools_Linux-x86_64_1.5.7_install 
 
