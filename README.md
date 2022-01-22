@@ -4,7 +4,7 @@ Statistical Analysis of Docking Results and Scoring Functions 2.0 (SAnDReS 2.0)(
 You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you need Matplotlib, NumPy, Scikit-Learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.7 installed on your computer. You can make the installation of Python packages faster by installing Anaconda. SAnDReS 2.0 has the most recent version of AutoDock Vina available in January 2022 (version 1.2.3) as a docking engine. SAnDReS 2.0 considers that you have installed on your computer the latest version of Scikit-Learn available in January 2022 (version 1.0.2). Please, see installation step 3 for issues related to the installation of Scikit-Learn version 1.0.2.
 <P>&nbsp;</P>
 <H2>Installing SAnDReS 2.0 (Linux)</H2>
-<P>Here, you should type all commands shown here in a Linux terminal. The easiest way to open a terminal is to use the Ctrl+Alt+T key combination</P>
+<P>You should type all commands shown here in a Linux terminal. The easiest way to open a terminal is to use the Ctrl+Alt+T key combination</P>
 <P><B>Step 1.</B> Download Anaconda (https://www.anaconda.com/download/)</P>
 <P>Open a terminal, go to directory where you have the installer file you downloaded and type the following commands:
  
