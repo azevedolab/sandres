@@ -40,17 +40,16 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
  </I><P></P>
  <I> </I> <I>
  </I></P>If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
-<P>You open a terminal and type the following commands::
+<P>Type the following commands::
 
  <I> </I> <I>
   
-    python scikit_version.py
+    python -m pip uninstall scikit-learn
+ 
+    python -m pip install scikit-learn==1.0.2
 
  </I><P></P> 
  <I> </I> <I>
-   python -m pip uninstall scikit-learn
-   python -m pip install scikit-learn==1.0.2
- 
 </I></P><P><B>Step 4.</B> To install XGBoost (https://xgboost.readthedocs.io/en/latest/install.html#python), type the following command in a terminal:</P>
 <I> </I><I>
   
