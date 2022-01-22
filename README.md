@@ -42,7 +42,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 
   <I>python -m pip install scikit-learn==1.0.2</I>
 <P><B>Step 4.</B> Install XGBoost (https://xgboost.readthedocs.io/en/latest/install.html#python)</P>
-<P><B>Step 5.</B> Download SAnDReS 2.0 (https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory. 
+<P><B>Step 5.</B> Download SAnDReS 2.0 (https://github.com/azevedolab/sandres/blob/master/sandres2_win.zip). Copy the sandres2 zipped directory (sandres2_win.zip) to wherever you want it and unzip the zipped directory. 
 <P>Open a command prompt and cd to sandres2 directory then, type: 
 
   <I>python sandres2.py</I></P> 
