@@ -5,17 +5,20 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <P>&nbsp;</P>
 <H2>Installing SAnDReS 2.0 (Linux)</H2>  
 <P><B>Step 1.</B> Download Anaconda (https://www.anaconda.com/download/)</P>
-<P>Open a terminal, go to directory where you have the file you downloaded and type the following commands:
+<P>Open a terminal, go to directory where you have the installer file you downloaded and type the following commands:
+  <I> </I> <I>
   
-  <I>chmod 777 Anaconda3-2021.11-Linux-x86_64.sh
+  chmod 777 Anaconda3-2021.11-Linux-x86_64.sh
   
   ./Anaconda3-2021.11-Linux-x86_64.sh</I></P>
   
   <P>Follow the instructions of the installer.</P>
 <P><B>Step 2.</B> Download MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
-<P> Open a terminal, and go to the home directory and type the following commands:
+<P> Open a terminal and type the following commands:
   <I> </I> <I>
   
+    cd ~
+    
     cp Downloads/mgltools_Linux-x86_64_1.5.7_install .
 
     chmod 777 mgltools_Linux-x86_64_1.5.7_install 
@@ -24,24 +27,33 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
     
     rm mgltools_Linux-x86_64_1.5.7_install</I></P> 
 <P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py). Type the following command:
-<P><I>python scikit_version.py</I></P>
+  <P><I> </I><I>
+  
+  python scikit_version.py</I></P>
+  
   If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
 <P>You open a terminal and type the following commands: 
+  <I> </I><I>
 
-  <I>python -m pip uninstall scikit-learn</I>
+  python -m pip uninstall scikit-learn</I>
 
-  <I>python -m pip install scikit-learn==1.0.2</I>
+  python -m pip install scikit-learn==1.0.2</I>
 <P><B>Step 4.</B> To install XGBoost (https://xgboost.readthedocs.io/en/latest/install.html#python), type the following command in a terminal:</P>
-
-  <I>python -m pip install xgboost</I>
+<I> </I><I>
+  
+  <python -m pip install xgboost</I>
 <P><B>Step 5.</B> Download SAnDReS 2.0 (https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory. 
 <P>Type the following command: 
- 
- <I>unzip sandres2.zip</I></P>
-<P>Open a terminal and cd to sandres2 directory then, type: 
+ <I> </I><I>
+  
+  unzip sandres2.zip</I></P>
 
-  <I>python sandres2.py</I></P> 
-<P>&nbsp;</P>
+  <P>Open a terminal and cd to sandres2 directory then, type: 
+<I> </I><I>
+  
+    python sandres2.py</I></P> 
+
+  <P>&nbsp;</P>
   <P>Now you have the GUI window for SAnDReS 2.0.</P>
   <img src="https://github.com/azevedolab/sandres/blob/e31a1a7524f27a448b58706599b861578794b57a/sandres_2_Linux_view_01.png", title="SAnDReS 2.0 Main Menu">
   
