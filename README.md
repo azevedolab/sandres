@@ -6,7 +6,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <H2>Installing SAnDReS 2.0 (Linux)</H2>  
 <P><B>Step 1.</B> Install Anaconda (https://www.anaconda.com/download/)</P>
 <P><B>Step 2.</B> Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
-<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, you open a terminal and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py). Type the following command:
+<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py). Type the following command:
 <P><I>python scikit_version.py</I></P>
   If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
 <P>You open a terminal and type the following commands: 
@@ -33,7 +33,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <H2>Installing SAnDReS 2.0 (Windows)</H2>  
 <P><B>Step 1.</B> Install Anaconda (https://www.anaconda.com/download/)</P>
 <P><B>Step 2.</B> Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
-<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, you open a command prompt and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py). Type the following command:
+<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a command prompt and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py). Type the following command:
 <P><I>python scikit_version.py</I></P>
   If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
 <P>You open a command prompt and type the following commands: 
