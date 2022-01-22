@@ -12,9 +12,9 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
   
     chmod 777 Anaconda3-2021.11-Linux-x86_64.sh
   
- ./Anaconda3-2021.11-Linux-x86_64.sh</I>
+    ./Anaconda3-2021.11-Linux-x86_64.sh
 
-  <P>Follow the instructions of the installer.</P>
+ </I><P>Follow the instructions of the installer.</P>
 
  <P><B>Step 2.</B> Download MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
 <P> Open a terminal and type the following commands:
