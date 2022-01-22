@@ -30,19 +30,21 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
     
     rm mgltools_Linux-x86_64_1.5.7_install 
 
- </P></I><P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py). Type the following command:
-  <P><I> </I><I>
+ </I></P><P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py).</P> 
+<P>Type the following command:
+ <I> </I> <I>
+   
   
-  python scikit_version.py</I></P>
-  
-  If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
+  python scikit_version.py
+ 
+ </I></P>If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
 <P>You open a terminal and type the following commands: 
-  <I> </I><I>
+ <I> </I> <I>
 
-  python -m pip uninstall scikit-learn</I>
-
-  python -m pip install scikit-learn==1.0.2</I>
-<P><B>Step 4.</B> To install XGBoost (https://xgboost.readthedocs.io/en/latest/install.html#python), type the following command in a terminal:</P>
+  python -m pip uninstall scikit-learn
+  python -m pip install scikit-learn==1.0.2
+ 
+</I></P><P><B>Step 4.</B> To install XGBoost (https://xgboost.readthedocs.io/en/latest/install.html#python), type the following command in a terminal:</P>
 <I> </I><I>
   
   <python -m pip install xgboost</I>
