@@ -59,7 +59,15 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
  </I><P></P>
   
 <P><B>Step 5.</B> Download SAnDReS 2.0 (https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory. 
-<P>Type the following command: 
+<P>Type the following command:
+ 
+ 
+ <I> </I> <I>
+  
+    python -m pip install xgboost
+
+ </I><P></P>
+ 
  <I> </I><I>
   
   unzip sandres2.zip</I></P>
