@@ -64,15 +64,11 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
  
  <I> </I> <I>
   
-    python -m pip install xgboost
+    unzip sandres2.zip
 
  </I><P></P>
  
- <I> </I><I>
-  
-  unzip sandres2.zip</I></P>
-
-  <P>Open a terminal and cd to sandres2 directory then, type: 
+  <P>cd to sandres2 directory then, type: 
 <I> </I><I>
   
     python sandres2.py</I></P> 
