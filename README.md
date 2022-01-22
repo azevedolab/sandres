@@ -35,11 +35,11 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 
  <I> </I> <I>
   
-    chmod 777 Anaconda3-2021.11-Linux-x86_64.sh
+    python scikit_version.py
   
     ./Anaconda3-2021.11-Linux-x86_64.sh
 
- </I><P>Follow the instructions of the installer.</P>
+ </I><P></P>
 
  <I> </I> <I>
  
