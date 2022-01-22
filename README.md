@@ -19,9 +19,9 @@ You should get the following message: 1.0.2 . To exit the Python IDLE shell, you
   If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
 <P>You open a terminal and type the following commands: 
 
-  <I>python3 -m pip uninstall scikit-learn</I>
+  <I>python -m pip uninstall scikit-learn</I>
 
-  <I>python3 -m pip install scikit-learn==1.0.2</I>
+  <I>python -m pip install scikit-learn==1.0.2</I>
 <P><B>Step 4.</B> Install XGBoost (https://xgboost.readthedocs.io/en/latest/install.html#python)</P>
 <P><B>Step 5.</B> Download SAnDReS 2.0 (https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory. 
 <P>Type the following command: 
@@ -29,7 +29,7 @@ You should get the following message: 1.0.2 . To exit the Python IDLE shell, you
  <I>unzip sandres2.zip</I></P>
 <P>Open a terminal and cd to sandres2 directory then, type: 
 
-  <I>python3 sandres2.py</I></P> 
+  <I>python sandres2.py</I></P> 
 <P>&nbsp;</P>
   <P>Now you have the GUI window for SAnDReS 2.0.</P>
   <img src="https://github.com/azevedolab/sandres/blob/e31a1a7524f27a448b58706599b861578794b57a/sandres_2_Linux_view_01.png", title="SAnDReS 2.0 Main Menu">
