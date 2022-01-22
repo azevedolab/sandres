@@ -71,7 +71,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
   <P>cd to sandres2 directory then, type: 
 <I> </I><I>
   
-    python sandres2.py</I></P> 
+    python sandres2.py
 
   <P>&nbsp;</P>
   <P>Now you have the GUI window for SAnDReS 2.0.</P>
