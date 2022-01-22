@@ -8,13 +8,18 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <P>Open a terminal, go to directory where you have the file you downloaded and type the following commands:
   
   <I>chmod 777 Anaconda3-2021.11-Linux-x86_64.sh</I>
+  
   <I>./Anaconda3-2021.11-Linux-x86_64.sh</I></P>
+  
   <P>Follow the instructions of the installer.</P>
 <P><B>Step 2.</B> Download MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
 <P> Open a terminal, and go to the home directory and type the following commands:
   <I>cp Downloads/mgltools_Linux-x86_64_1.5.7_install .
-chmod 777 mgltools_Linux-x86_64_1.5.7_install 
-./mgltools_Linux-x86_64_1.5.7_install 
+
+    chmod 777 mgltools_Linux-x86_64_1.5.7_install 
+
+    ./mgltools_Linux-x86_64_1.5.7_install 
+    
     rm mgltools_Linux-x86_64_1.5.7_install</I></P> 
 <P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py). Type the following command:
 <P><I>python scikit_version.py</I></P>
