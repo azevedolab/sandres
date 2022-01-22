@@ -5,8 +5,8 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <P>&nbsp;</P>
 <H2>Installing SAnDReS 2.0 (Linux)</H2>
 <P>You should type all commands shown here in a Linux terminal. The easiest way to open a terminal is to use the Ctrl+Alt+T key combination</P>
-<P><B>Step 1.</B> Download Anaconda (https://www.anaconda.com/download/)</P>
-<P>Open a terminal, go to directory where you have the installer file you downloaded and type the following commands:
+<P><B>Step 1.</B> Download Anaconda (https://www.anaconda.com/download/).</P>
+<P>Go to the directory where you have the installer file you downloaded and type the following commands:
  
  <I> </I> <I>
   
