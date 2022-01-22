@@ -11,7 +11,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <P>Then you enter in the IDLE prompt <I>>>></I> the following commands:
 <P><I>import sklearn
 
-print(sklearn.__version__)</I></P>
+print(sklearn.____version____)</I></P>
 You should get the following message: 1.0.2 . To exit the Python IDLE shell, you type:
 
 <I>quit()</I>
