@@ -28,9 +28,9 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 
     ./mgltools_Linux-x86_64_1.5.7_install 
     
-    rm mgltools_Linux-x86_64_1.5.7_install</I></P> 
+    rm mgltools_Linux-x86_64_1.5.7_install 
 
- <P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py). Type the following command:
+ </P></I><P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py). Type the following command:
   <P><I> </I><I>
   
   python scikit_version.py</I></P>
