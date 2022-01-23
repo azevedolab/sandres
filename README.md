@@ -81,7 +81,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <P>That´s it, good SAnDReS session! By February 2022, we will have a tutorial page for additional information about how to run SAnDReS.</P>
   <P>&nbsp;</P>
   <P>&nbsp;</P>
-<H2>Installing SAnDReS 2.0 (Windows)</H2>  
+   </I><H2>Installing SAnDReS 2.0 (Windows)</H2>  
 <P><B>Step 1.</B> Install Anaconda (https://www.anaconda.com/download/)</P>
 <P><B>Step 2.</B> Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
 <P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a command prompt and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py). Type the following command:
