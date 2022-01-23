@@ -112,11 +112,12 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <P><B>Step 5.</B> Download SAnDReS 2.0 (https://github.com/azevedolab/sandres/blob/master/sandres2_win.zip). Copy the sandres2_win zipped directory (sandres2_win.zip) to wherever you want it and unzip the zipped directory. 
 <P>Open a command prompt and cd to sandres2_win directory then, type: 
 
-  <I>
+ <I> </I><I>
+  
     python sandres2.py
 
- </I></P> 
- 
+   </I><P>&nbsp;</P>
+
 <P>Now you have the GUI window for SAnDReS 2.0.</P>
   <img src="https://github.com/azevedolab/sandres/blob/e31a1a7524f27a448b58706599b861578794b57a/sandres_2_Linux_view_01.png", title="SAnDReS 2.0 Main Menu">
   
