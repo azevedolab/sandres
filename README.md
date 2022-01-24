@@ -41,7 +41,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 
  </I><P></P>
  <I> </I> <I>
- </I></P>If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
+ </I></P>If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2.  
 <P>Type the following commands:
 
  <I> </I> <I>
@@ -93,7 +93,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
     python scikit_version.py
 
  </I><P></P>
-  If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
+  If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2.  
 <P>Open an Anaconda Prompt and type the following commands: 
 <I> </I> <I>
   
