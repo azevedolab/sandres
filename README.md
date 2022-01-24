@@ -5,19 +5,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 <P>&nbsp;</P>
 <H2>Installing SAnDReS 2.0 (Linux)</H2>
 <P>You should type all commands shown here in a Linux terminal. The easiest way to open a terminal is to use the Ctrl+Alt+T key combination.</P>
-<P><B>Step 1.</B> Download Anaconda Installer for Linux (https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh).</P>
-<P>Go to the directory where you have the installer file you downloaded and type the following commands:
- 
- <I> </I> <I>
-  
-    chmod 777 Anaconda3-2021.11-Linux-x86_64.sh
-  
-    ./Anaconda3-2021.11-Linux-x86_64.sh
-
- </I><P>Follow the instructions of the installer.</P>
- <P>You may use a newer installer, but be sure to have the right name of the installer in the above command lines.</P>
-
- <P><B>Step 2.</B> Download MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/).</P>
+<P><B>Step 1.</B> Download MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/).</P>
 <P>Type the following commands:
   <I> </I> <I>
   
@@ -31,7 +19,20 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
     
     rm mgltools_Linux-x86_64_1.5.7_install 
 
- </I></P><P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py).</P> 
+</I></P>
+<P><B>Step 2.</B> Download Anaconda Installer for Linux (https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh).</P>
+<P>Go to the directory where you have the installer file you downloaded and type the following commands:
+ 
+ <I> </I> <I>
+  
+    chmod 777 Anaconda3-2021.11-Linux-x86_64.sh
+  
+    ./Anaconda3-2021.11-Linux-x86_64.sh
+
+ </I><P>Follow the instructions of the installer.</P>
+ <P>You may use a newer installer, but be sure to have the right name of the installer in the above command lines.</P>
+
+<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py).</P> 
 <P>Type the following command:
 
  <I> </I> <I>
@@ -83,9 +84,9 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
   <P>&nbsp;</P>
   <P>&nbsp;</P>
    </I><H2>Installing SAnDReS 2.0 (Windows)</H2>  
-<P><B>Step 1.</B> Install Anaconda (https://www.anaconda.com/download/)</P>
-<P><B>Step 2.</B> Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
-<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a command prompt and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py). Type the following command:
+<P><B>Step 1.</B> Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/)</P>
+<P><B>Step 2.</B> Install Anaconda (https://www.anaconda.com/download/)</P>
+<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, with the Windows Start select Anaconda Prompt (anaconda3) and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py). Type the following command in the Anaconda Prompt:
 
  <I> </I> <I>
   
@@ -93,7 +94,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 
  </I><P></P>
   If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2. 
-<P>You open a command prompt and type the following commands: 
+<P>Open a Anaconda Prompt and type the following commands: 
 <I> </I> <I>
   
     python -m pip uninstall scikit-learn
@@ -110,7 +111,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
 
  </I><P>
 <P><B>Step 5.</B> Download SAnDReS 2.0 (https://github.com/azevedolab/sandres/blob/master/sandres2_win.zip). Copy the sandres2_win zipped directory (sandres2_win.zip) to wherever you want it and unzip the zipped directory. 
-<P>Open a command prompt and cd to sandres2_win directory then, type: 
+<P>Open a Anaconda Prompt and cd to sandres2_win directory then, type: 
 
  <I> </I><I>
   
