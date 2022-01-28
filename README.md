@@ -63,7 +63,7 @@ SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking s
   
     python sandres2.py
 
-   </I><P>&nbsp;</P>
+   </I>
   <P>Now you have the GUI window for SAnDReS 2.0.</P>
   <img src="https://github.com/azevedolab/sandres/blob/e31a1a7524f27a448b58706599b861578794b57a/sandres_2_Linux_view_01.png", title="SAnDReS 2.0 Main Menu">
   
