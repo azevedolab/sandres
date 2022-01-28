@@ -3,7 +3,28 @@ Statistical Analysis of Docking Results and Scoring Functions 2.0 (SAnDReS 2.0)(
 <P>&nbsp;</P>
 You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you need Matplotlib, NumPy, Scikit-Learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.7 installed on your computer. You can make the installation of Python packages faster by installing Anaconda. SAnDReS 2.0 has the most recent version of AutoDock Vina available in January 2022 (version 1.2.3) as a docking engine. SAnDReS 2.0 considers that you have installed on your computer the latest version of Scikit-Learn available in January 2022 (version 1.0.2). Please, see installation step 3 for issues related to the installation of Scikit-Learn version 1.0.2.
 <P>&nbsp;</P>
-<H2>Installing SAnDReS 2.0 (Linux)</H2>
+<H2>Installing SAnDReS 2.0 (Linux) (Option 1)</H2>
+<P>The easiest way to install all necessary packages to run SAnDReS 2.0 is to run this installer (https://github.com/azevedolab/sandres/raw/master/install)</P>
+<P>You should type all commands shown here in a Linux terminal. The easiest way to open a Linux terminal is to use the Ctrl+Alt+T key combination.</P>
+<P>Download this installer to the directory where you want install SAnDReS 2.0 and type the following command:
+    <I> </I> <I>
+  
+    ./install
+    
+</I></P>
+<P>Follow all instructions the installer show.</P>
+<P>After finishing the installation. Type the following commands:
+      <I> </I> <I>
+  
+    cd sandres2
+    python sandres2.py
+    
+</I></P>
+<P>Now you have the GUI window for SAnDReS 2.0.</P>
+  <img src="https://github.com/azevedolab/sandres/blob/e31a1a7524f27a448b58706599b861578794b57a/sandres_2_Linux_view_01.png", title="SAnDReS 2.0 Main Menu">
+  
+<P>&nbsp;</P>
+<H2>Installing SAnDReS 2.0 (Linux) (Option 2)</H2>
 <P>You should type all commands shown here in a Linux terminal. The easiest way to open a Linux terminal is to use the Ctrl+Alt+T key combination.</P>
 <P><B>Step 1.</B> Download MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/).</P>
 <P>Type the following commands:
