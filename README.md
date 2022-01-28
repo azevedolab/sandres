@@ -29,8 +29,7 @@ SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking s
   
     ./Anaconda3-2021.11-Linux-x86_64.sh
 
-  </I>Follow the instructions of the installer.
-<P>You may use a newer installer, but be sure to have the right installer in the above command lines.</P>
+  </I>Follow the instructions of the installer. You may use a newer installer, but be sure to have the right installer in the above command lines.
 
 <P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and type the following commands:
 
