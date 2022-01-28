@@ -1,7 +1,7 @@
 # SAnDReS 2.0
 Statistical Analysis of Docking Results and Scoring Functions 2.0 (SAnDReS 2.0)(https://azevedolab.net/sandres.php)
 <P>&nbsp;</P>
- SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking simulation and machine-learning modeling. All these tools smoothly integrated in one program. We have the newest version of AutoDock Vina available in February 2022 (version 1.2.3) as a docking engine. Also, SAnDReS 2.0 uses the latest version of Scikit-Learn available in February 2022 (version 1.0.2). It has a total of 64 regression methods, that allow us to explore the Scoring Function Space (SFS). This exploration of the SFS permits us to have an adequate machine-learning (ML) model. This SAnDReS-model predicts binding affinity for a specific protein system with superior predictive performance, compared with classical scoring functions. In summary, SAnDReS 2.0 makes possible for you to design your own scoring function, adequate to the protein system of your interest.
+SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking simulation and machine-learning modeling. We have the newest version of AutoDock Vina, available in February 2022 (version 1.2.3), as a docking engine. Also, SAnDReS 2.0 uses the latest version of Scikit-Learn, available in February 2022 (version 1.0.2). It has 64 regression methods which allow us to explore the Scoring Function Space (SFS). This exploration of the SFS permits us to have an adequate machine-learning (ML) model. SAnDReS predicts binding affinity for a specific protein system with superior performance compared against classical scoring functions. In summary, SAnDReS 2.0 makes it possible for you to design your scoring function adequate to the protein system of your interest. 
 You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you need Matplotlib, NumPy, Scikit-Learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.7. You can make the installation of Python packages faster by installing Anaconda.
 <P>&nbsp;</P>
 <H2>Installing SAnDReS 2.0 (Linux)</H2>
@@ -33,17 +33,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
  </I><P>Follow the instructions of the installer.</P>
  <P>You may use a newer installer, but be sure to have the right name of the installer in the above command lines.</P>
 
-<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and run the following Python script (scikit_version.py)(https://github.com/azevedolab/sandres/blob/master/scikit_version.py).</P> 
-<P>Type the following command:
-
- <I> </I> <I>
-  
-    python scikit_version.py
-
- </I><P></P>
- <I> </I> <I>
- </I></P>If you have version 1.0.2, go to the following step. Otherwise, you need to uninstall the current version and install version 1.0.2.  
-<P>Type the following commands:
+<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and type the following commands:
 
  <I> </I> <I>
   
@@ -52,7 +42,7 @@ You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, yo
     python -m pip install scikit-learn==1.0.2
 
  </I><P></P> 
- <I> </I> <I>
+ <I> </I> <I></P>
 </I></P><P><B>Step 4.</B> To install XGBoost (https://xgboost.readthedocs.io/en/latest/install.html#python), type the following command in a terminal:</P>
 
  <I> </I> <I>
