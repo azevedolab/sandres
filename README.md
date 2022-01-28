@@ -4,15 +4,16 @@ Statistical Analysis of Docking Results and Scoring Functions 2.0 (SAnDReS 2.0)(
 You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you need Matplotlib, NumPy, Scikit-Learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.7 installed on your computer. You can make the installation of Python packages faster by installing Anaconda. SAnDReS 2.0 has the most recent version of AutoDock Vina available in January 2022 (version 1.2.3) as a docking engine. SAnDReS 2.0 considers that you have installed on your computer the latest version of Scikit-Learn available in January 2022 (version 1.0.2). Please, see installation step 3 for issues related to the installation of Scikit-Learn version 1.0.2.
 <P>&nbsp;</P>
 <H2>Installing SAnDReS 2.0 (Linux) (Option 1)</H2>
-<P>The easiest way to install all necessary packages to run SAnDReS 2.0 is to run this installer (https://github.com/azevedolab/sandres/raw/master/install)</P>
-<P>You should type all commands shown here in a Linux terminal. The easiest way to open a Linux terminal is to use the Ctrl+Alt+T key combination.</P>
-<P>Download this installer to the directory where you want install SAnDReS 2.0 and type the following command:
+<P>The easiest way to install all necessary packages to run SAnDReS 2.0 is to run this installer (https://github.com/azevedolab/sandres/raw/master/install).</P>
+<P>You should type all commands shown here in a Linux terminal. To open a Linux terminal you may use the Ctrl+Alt+T key combination.</P>
+<P><B>This installer considers that you DO NOT have anaconda3 installed on your computer. If you have anaconda3 installed, please uninstall it before running this installer.</B></P>
+<P>To install SAnDReS 2.O, download the installer (https://github.com/azevedolab/sandres/raw/master/install) in the directory where you want to have SAnDReS 2.0 and type the following command:
     <I> </I> <I>
   
     ./install
     
 </I></P>
-<P>Follow all instructions the installer show.</P>
+<P>Follow all instructions of the installer.</P>
 <P>After finishing the installation. Type the following commands:
       <I> </I> <I>
   
