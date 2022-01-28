@@ -91,7 +91,7 @@ SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking s
   
     python -m pip install xgboost
 
- </I><P>
+ </I>
 <P><B>Step 5.</B> Download SAnDReS 2.0 (https://github.com/azevedolab/sandres/blob/master/sandres2_win.zip). Copy the sandres2_win zipped directory (sandres2_win.zip) to wherever you want it and unzip the zipped directory. 
 <P>Open an Anaconda Prompt and cd to sandres2_win directory then, type: 
 
