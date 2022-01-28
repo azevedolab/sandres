@@ -19,7 +19,6 @@ SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking s
     ./mgltools_Linux-x86_64_1.5.7_install 
     
     rm mgltools_Linux-x86_64_1.5.7_install 
-
 </I></P>
 <P><B>Step 2.</B> Download Anaconda Installer for Linux (https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh).</P>
 <P>Go to the directory where you have the installer file you downloaded and type the following commands:
