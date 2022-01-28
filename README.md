@@ -39,7 +39,7 @@ SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking s
  
     python -m pip install scikit-learn==1.0.2
 
- </I><P></P> 
+ </I>
  <I> </I> <I></P>
 </I></P><P><B>Step 4.</B> To install XGBoost (https://xgboost.readthedocs.io/en/latest/install.html#python), type the following command in a terminal:</P>
 
