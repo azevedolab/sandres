@@ -84,7 +84,7 @@ SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking s
 
  </I> 
  <I> </I> <I></P>
-</I></P><P><B>Step 4.</B> To install XGBoost (https://xgboost.readthedocs.io/en/latest/install.html#python), type the following command:</P>
+</I><P><B>Step 4.</B> To install XGBoost (https://xgboost.readthedocs.io/en/latest/install.html#python), type the following command:</P>
 
  <I> </I> <I>
   
