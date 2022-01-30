@@ -73,7 +73,7 @@ SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking s
   <P>&nbsp;</P>
    </I><H2>Installing SAnDReS 2.0 (Windows)</H2>  
 <P><B>Step 1.</B> Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/).</P>
-<P><B>Step 2.</B> Install Anaconda (https://www.anaconda.com/download/). After finished installing Anaconda, right-click the Windows Start Menu icon and select the Anaconda prompt. From now on, you should insert all commands in an Anaconda prompt.</P>
+<P><B>Step 2.</B> Install Anaconda (https://www.anaconda.com/download/). After you finished installing Anaconda, right-click the Windows Start Menu icon and select the Anaconda prompt. From now on, please insert all commands in an Anaconda prompt.</P>
 <P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open an Anaconda prompt and type the following commands:
 
  <I> </I> <I>
