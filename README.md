@@ -14,7 +14,7 @@ SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking s
     
     cp Downloads/mgltools_Linux-x86_64_1.5.7_install .
 
-    chmod 777 mgltools_Linux-x86_64_1.5.7_install 
+    chmod u+x mgltools_Linux-x86_64_1.5.7_install 
 
     ./mgltools_Linux-x86_64_1.5.7_install 
     
@@ -25,7 +25,7 @@ SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking s
  
  <I> </I> <I>
   
-    chmod 777 Anaconda3-2021.11-Linux-x86_64.sh
+    chmod u+x Anaconda3-2021.11-Linux-x86_64.sh
   
     ./Anaconda3-2021.11-Linux-x86_64.sh
 
