@@ -2,7 +2,12 @@
 Statistical Analysis of Docking Results and Scoring Functions 2.0 (SAnDReS 2.0)(https://azevedolab.net/sandres.php)
 <P>&nbsp;</P>
 SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking simulation and machine-learning modeling. We have the newest version of AutoDock Vina, available in February 2022 (version 1.2.3), as a docking engine. Also, SAnDReS 2.0 uses the latest version of Scikit-Learn, available in February 2022 (version 1.0.2). It has 64 regression methods which allow us to explore the Scoring Function Space (SFS). This exploration of the SFS permits us to have an adequate machine-learning (ML) model for a targeted protein system. SAnDReS predicts binding affinity for a specific protein system with superior performance compared against classical scoring functions. In summary, SAnDReS 2.0 makes it possible for you to design a scoring function adequate to the protein system of your interest. 
-<P>You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you need Matplotlib, NumPy, Scikit-Learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.7. You can make the installation of Python packages faster by installing Anaconda. SAnDReS 2.0 User's Guide is available here: https://github.com/azevedolab/sandres/raw/master/sandres_users_guide_2022_02.pdf</P>
+<P>You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you need Matplotlib, NumPy, Scikit-Learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.7. You can make the installation of Python packages faster by installing Anaconda.</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+SAnDReS 2.0 User's Guide is available here (Flipbook): https://heyzine.com/flip-book/6fb24027a3.html</P>
+<P>&nbsp;</P>
+<P>SAnDReS 2.0 User's Guide is available here (PDF): https://github.com/azevedolab/sandres/raw/master/sandres_users_guide_2022_02.pdf</P>
 <P>&nbsp;</P>
 <H2>Installing SAnDReS 2.0 (Linux)</H2>
 <P>You should type all commands shown here in a Linux terminal. The easiest way to open a Linux terminal is to use the Ctrl+Alt+T key combination.</P>
