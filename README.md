@@ -7,7 +7,7 @@ SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking s
 <P>&nbsp;</P>
 SAnDReS 2.0 User's Guide is available here (Flipbook): https://heyzine.com/flip-book/4801970add.html</P>
 <P>&nbsp;</P>
-<P>SAnDReS 2.0 User's Guide is available here (PDF): https://github.com/azevedolab/sandres/raw/master/sandres_users_guide_2022_02.pdf</P>
+<P>SAnDReS 2.0 User's Guide is available here (PDF): https://github.com/azevedolab/sandres/raw/master/sandres_user_guide_2022_02.pdf</P>
 <P>&nbsp;</P>
 <H2>Installing SAnDReS 2.0 (Linux)</H2>
 <P>You should type all commands shown here in a Linux terminal. The easiest way to open a Linux terminal is to use the Ctrl+Alt+T key combination.</P>
