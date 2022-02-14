@@ -5,11 +5,11 @@ SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking s
 <P>You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you need Matplotlib, NumPy, Scikit-Learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.7. You can make the installation of Python packages faster by installing Anaconda.</P>
 <P>&nbsp;</P>
 <P>&nbsp;</P>
-SAnDReS 2.0 User's Guide is available here (Flipbook): https://heyzine.com/flip-book/f57d66a5ce.html</P>
+SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/4f8781d1f8.html</P>
 <P>&nbsp;</P>
-<P>SAnDReS 2.0 User's Guide is available here (PDF): https://github.com/azevedolab/sandres/raw/master/sandres_user_guide_2022_02.pdf</P>
+<P>SAnDReS User Guide is available here (PDF): https://github.com/azevedolab/sandres/raw/master/sandres_user_guide_2022_02.pdf</P>
 <P>&nbsp;</P>
-<H2>Installing SAnDReS 2.0 (Linux)</H2>
+<H2>Installing SAnDReS (Linux)</H2>
 <P>You should type all commands shown here in a Linux terminal. The easiest way to open a Linux terminal is to use the Ctrl+Alt+T key combination.</P>
 <P><B>Step 1.</B> Download MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/).</P>
 <P>Type the following commands:
@@ -76,7 +76,7 @@ SAnDReS 2.0 User's Guide is available here (Flipbook): https://heyzine.com/flip-
 <P>That´s it, good SAnDReS session! By February 2022, we will have a tutorial page for additional information about how to run SAnDReS.</P>
   <P>&nbsp;</P>
   <P>&nbsp;</P>
-   </I><H2>Installing SAnDReS 2.0 (Windows)</H2>  
+   </I><H2>Installing SAnDReS (Windows)</H2>  
 <P><B>Step 1.</B> Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/).</P>
 <P><B>Step 2.</B> Install Anaconda (https://www.anaconda.com/download/). Right-click the Windows Start Menu icon and select the Anaconda prompt. From now on, insert all commands in an Anaconda prompt.</P>
 <P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open an Anaconda prompt and type the following commands:
