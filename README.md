@@ -22,8 +22,7 @@ SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/4
     chmod u+x mgltools_Linux-x86_64_1.5.7_install 
 
     ./mgltools_Linux-x86_64_1.5.7_install 
-    
-    rm mgltools_Linux-x86_64_1.5.7_install 
+ 
 </I></P>
 <P><B>Step 2.</B> Download Anaconda Installer for Linux (https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh).</P>
 <P>Go to the directory where you have the installer file and type the following commands:
