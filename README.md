@@ -40,9 +40,9 @@ SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/4
 
  <I> </I> <I>
   
-    python -m pip uninstall scikit-learn
+    python3 -m pip uninstall scikit-learn
  
-    python -m pip install scikit-learn==1.0.2
+    python3 -m pip install scikit-learn==1.0.2
 
  </I>
  <I> </I> <I></P>
@@ -50,7 +50,7 @@ SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/4
 
  <I> </I> <I>
   
-    python -m pip install xgboost
+    python3 -m pip install xgboost
 
  </I>
 </I><P><B>Step 5.</B> Download SAnDReS 2.0 (https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory. 
@@ -66,7 +66,7 @@ SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/4
   <P>cd to sandres2 directory then, type: 
 <I> </I><I>
   
-    python sandres2.py
+    python3 sandres2.py
 
    </I>
   <P>Now you have the GUI window for SAnDReS 2.0.</P>
