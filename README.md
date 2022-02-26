@@ -69,7 +69,7 @@ SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/4
 
    </I>
   <P>Now you have the GUI window for SAnDReS 2.0.</P>
-<P>That´s it, good SAnDReS session! By February 2022, we will have a tutorial page for additional information about how to run SAnDReS.</P>
+<P>That´s it, good SAnDReS session!</P>
   <P>&nbsp;</P>
   <P>&nbsp;</P>
    </I><H2>Installing SAnDReS (Windows)</H2>  
@@ -91,7 +91,7 @@ SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/4
     python -m pip install xgboost
 
  </I>
-<P><B>Step 5.</B> Download SAnDReS 2.0 (https://github.com/azevedolab/sandres/blob/master/sandres2_win.zip). Copy the sandres2_win zipped directory (sandres2_win.zip) to wherever you want it and unzip the zipped directory. 
+<P><B>Step 5.</B> Download SAnDReS 2.0 (https://github.com/azevedolab/sandres/raw/master/sandres2_win.zip). Copy the sandres2_win zipped directory (sandres2_win.zip) to wherever you want it and unzip the zipped directory. 
 <P>Open an Anaconda Prompt and cd to sandres2_win directory then, type: 
 
  <I> </I><I>
@@ -100,4 +100,5 @@ SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/4
 
    </I>
 <P>Now you have the GUI window for SAnDReS 2.0.</P>
-<P>That´s it, good SAnDReS session! By February 2022, we will have a tutorial page for additional information about how to run SAnDReS.</P>
+  <P>That´s it, good SAnDReS session!</P>
+  
