@@ -70,9 +70,6 @@ SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/4
 
    </I>
   <P>Now you have the GUI window for SAnDReS 2.0.</P>
-  <img src="https://github.com/azevedolab/sandres/blob/e31a1a7524f27a448b58706599b861578794b57a/sandres_2_Linux_view_01.png", title="SAnDReS 2.0 Main Menu">
-  
-  <I>SAnDReS 2.0 Main Menu</I></img>
 <P>That´s it, good SAnDReS session! By February 2022, we will have a tutorial page for additional information about how to run SAnDReS.</P>
   <P>&nbsp;</P>
   <P>&nbsp;</P>
@@ -104,7 +101,4 @@ SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/4
 
    </I>
 <P>Now you have the GUI window for SAnDReS 2.0.</P>
-  <img src="https://github.com/azevedolab/sandres/blob/e31a1a7524f27a448b58706599b861578794b57a/sandres_2_Linux_view_01.png", title="SAnDReS 2.0 Main Menu">
-  
-  <I>SAnDReS 2.0 Main Menu</I></img>
 <P>That´s it, good SAnDReS session! By February 2022, we will have a tutorial page for additional information about how to run SAnDReS.</P>
