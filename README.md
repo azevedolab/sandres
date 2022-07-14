@@ -1,11 +1,9 @@
 # SAnDReS 2.0
 Statistical Analysis of Docking Results and Scoring Functions 2.0 (SAnDReS 2.0)(https://azevedolab.net/sandres.php)
 <P>&nbsp;</P>
-SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking simulation and machine-learning modeling. We have the newest version of AutoDock Vina, available in February 2022 (version 1.2.3), as a docking engine. Also, SAnDReS 2.0 uses the latest version of Scikit-Learn, available in February 2022 (version 1.0.2). It has 64 regression methods which allow us to explore the Scoring Function Space (SFS). This exploration of the SFS permits us to have an adequate machine-learning (ML) model for a targeted protein system. SAnDReS predicts binding affinity for a specific protein system with superior performance compared against classical scoring functions. In summary, SAnDReS 2.0 makes it possible for you to design a scoring function adequate to the protein system of your interest. 
-<P>You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you need Matplotlib, NumPy, Scikit-Learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.7. You can make the installation of Python packages faster by installing Anaconda.</P>
+SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking simulation and machine-learning modeling. We have the newest version of AutoDock Vina, available in July 2022 (version 1.2.3), as a docking engine. Also, SAnDReS 2.0 uses the latest version of Scikit-Learn, available in July 2022 (version 1.1.1). It has 64 regression methods which allow us to explore the Scoring Function Space (SFS). This exploration of the SFS permits us to have an adequate machine-learning (ML) model for a targeted protein system. SAnDReS predicts binding affinity for a specific protein system with superior performance compared against classical scoring functions. In summary, SAnDReS 2.0 makes it possible for you to design a scoring function adequate to the protein system of your interest. 
+<P>You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you need Pandas, Matplotlib, NumPy, Scikit-Learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.7. You can make the installation of Python packages faster by installing Anaconda.</P>
 <P>&nbsp;</P>
-<P>&nbsp;</P>
-SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/5d80a7bcb7.html</P>
 <P>&nbsp;</P>
 <P>SAnDReS User Guide is available here (PDF): https://github.com/azevedolab/sandres/blob/master/sandres_user_guide_2022_03.pdf</P>
 <P>&nbsp;</P>
@@ -35,13 +33,13 @@ SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/5
 
   </I>Follow the instructions of the installer. You may use a newer installer, but be sure to have the right installer in the above command lines.
 
-<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open a terminal and type the following commands:
+<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.1.1. To be sure you have version 1.1.1, open a terminal and type the following commands:
 
  <I> </I> <I>
   
     python3 -m pip uninstall scikit-learn
  
-    python3 -m pip install scikit-learn==1.0.2
+    python3 -m pip install scikit-learn==1.1.1
 
  </I>
  <I> </I> <I></P>
@@ -75,13 +73,13 @@ SAnDReS User Guide is available here (Flipbook): https://heyzine.com/flip-book/5
    </I><H2>Installing SAnDReS (Windows)</H2>  
 <P><B>Step 1.</B> Install MGLTools 1.5.7 (https://ccsb.scripps.edu/mgltools/downloads/).</P>
 <P><B>Step 2.</B> Install Anaconda (https://www.anaconda.com/download/). Right-click the Windows Start Menu icon and select the Anaconda prompt. From now on, insert all commands in an Anaconda prompt.</P>
-<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.0.2. To be sure you have version 1.0.2, open an Anaconda prompt and type the following commands:
+<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.1.1. To be sure you have version 1.1.1, open an Anaconda prompt and type the following commands:
 
  <I> </I> <I>
   
     python -m pip uninstall scikit-learn
  
-    python -m pip install scikit-learn==1.0.2
+    python -m pip install scikit-learn==1.1.1
 
  </I> 
 </I><P><B>Step 4.</B> To install XGBoost (https://xgboost.readthedocs.io/en/latest/install.html#python), type the following command:</P>
