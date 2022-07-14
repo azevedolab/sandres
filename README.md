@@ -5,7 +5,7 @@ SAnDReS 2.0 brings together the most advanced tools for protein-ligand docking s
 <P>You need Python 3 installed on your computer to run SAnDReS 2.0. In addition, you need Pandas, Matplotlib, NumPy, Scikit-Learn, SciPy, and XGBoost. It is also necessary to have MGLTools 1.5.7. You can make the installation of Python packages faster by installing Anaconda.</P>
 <P>&nbsp;</P>
 <P>&nbsp;</P>
-<P>SAnDReS User Guide is available here (PDF): https://github.com/azevedolab/sandres/blob/master/sandres_user_guide_2022_03.pdf</P>
+<P>SAnDReS User Guide is available here (PDF): https://github.com/azevedolab/sandres/raw/master/sandres_user_guide_2022.pdf</P>
 <P>&nbsp;</P>
 <H2>Installing SAnDReS (Linux)</H2>
 <P>You should type all commands shown here in a Linux terminal. The easiest way to open a Linux terminal is to use the Ctrl+Alt+T key combination.</P>
