@@ -44,7 +44,7 @@ SAnDReS 2.0.0 brings together the most advanced tools for protein-ligand docking
 
  </I>
  <I> </I> <I></P>
-</I><P><B>Step 4.</B> Download SAnDReS 2.0.0 (https://github.com/azevedolab/sandres/raw/master/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory. 
+</I><P><B>Step 4.</B> Download SAnDReS 2.0.0 (https://azevedolab.net/resources/sandres2.zip). Copy the sandres2 zipped directory (sandres2.zip) to wherever you want it and unzip the zipped directory. 
 <P>Type the following command:
  
  
@@ -64,4 +64,3 @@ SAnDReS 2.0.0 brings together the most advanced tools for protein-ligand docking
 <P>That´s it, good SAnDReS session!</P>
   <P>&nbsp;</P>
   <P>&nbsp;</P>
-   
