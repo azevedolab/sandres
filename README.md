@@ -4,7 +4,6 @@ Statistical Analysis of Docking Results and Scoring Functions 2.0.0 (SAnDReS 2.0
 SAnDReS 2.0.0 brings together the most advanced tools for protein-ligand docking simulation and machine-learning modeling. We have the newest version of AutoDock Vina, available in February 2023 (version 1.2.3), as a docking engine. Also, SAnDReS 2.0.0 uses the latest version of Scikit-Learn, available in February 2023 (version 1.2.0). It has 54 regression methods which allow us to explore the Scoring Function Space (SFS). This exploration of the SFS permits us to have an adequate machine-learning (ML) model for a targeted protein system. SAnDReS predicts binding affinity for a specific protein system with superior performance compared against classical scoring functions. In summary, SAnDReS 2.0.0 makes it possible for you to design a scoring function adequate to the protein system of your interest. 
 <P>You need Python 3 installed on your computer to run SAnDReS 2.0.0. In addition, you need Pandas, Matplotlib, NumPy, Scikit-Learn, and SciPy. It is also necessary to have ADFRsuite version 1.0. You can make the installation of Python packages faster by installing Anaconda.</P>
 <P>&nbsp;</P>
-<P>&nbsp;</P>
 <H2>Installing SAnDReS (Linux)</H2>
 <P>You should type all commands shown here in a Linux terminal. The easiest way to open a Linux terminal is to use the Ctrl+Alt+T key combination.</P>
 <P><B>Step 1.</B> Download Anaconda Installer for Linux (https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh) or newer.</P>
@@ -60,5 +59,4 @@ SAnDReS 2.0.0 brings together the most advanced tools for protein-ligand docking
    </I>
   <P>Now you have the GUI window for SAnDReS 2.0.0.</P>
 <P>That´s it, good SAnDReS session!</P>
-  <P>&nbsp;</P>
   <P>&nbsp;</P>
