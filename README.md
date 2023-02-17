@@ -30,7 +30,7 @@ SAnDReS 2.0.0 brings together the most advanced tools for protein-ligand docking
 
     ./ADFRsuite_Linux-x86_64_1.0_install
 
-</I>Follow the instructions of the installer.
+</I>Follow the instructions of the installer. You need to add the path of ADFRsuite to your .bashrc (e.g.,PATH="/home/walter/ADFRsuite-1.0/bin:$PATH")
 </P>
 <P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need Scikit-Learn 1.2.0. To be sure you have version 1.2.0, open a terminal and type the following commands:
 
