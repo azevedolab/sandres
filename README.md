@@ -19,9 +19,9 @@ SAnDReS 2.0.0 brings together the most advanced tools for protein-ligand docking
     chmod a+x ADFRsuite_Linux-x86_64_1.0_install
     ./ADFRsuite_Linux-x86_64_1.0_install</I></pre>
 <P>Follow the instructions of the installer. You need to add the path of ADFRsuite to your .bashrc (e.g.,PATH="/home/walter/ADFRsuite-1.0/bin:$PATH"). You need to change to your user.</P>
-<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need <a href="https://scikit-learn.org/stable/" title="Scikit-Learn. Machine Learning in Python">Scikit-Learn</a> 1.3.1. To be sure you have version 1.3.1, open a terminal and type the following commands:
+<P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need <a href="https://scikit-learn.org/stable/" title="Scikit-Learn. Machine Learning in Python">Scikit-Learn</a> 1.4.0. To be sure you have version 1.4.0, open a terminal and type the following commands:
 <pre><I>    python3 -m pip uninstall scikit-learn
-    python3 -m pip install scikit-learn==1.3.1</I></pre>
+    python3 -m pip install scikit-learn==1.4.0</I></pre>
 <P><B>Step 4.</B> Download SAnDReS 2.0.0 <a href="https://github.com/azevedolab/sandres/raw/master/sandres2.zip" title="SAnDReS 2.0.0">here</a>. Copy the sandres2 zipped directory (<a href="https://github.com/azevedolab/sandres/raw/master/sandres2.zip" title="SAnDReS 2.0.0">sandres2.zip</a>) to wherever you want it and unzip the zipped directory. 
 <P>Type the following command:</P>
 <pre><I>    unzip sandres2.zip</I></pre>
