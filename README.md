@@ -8,7 +8,7 @@ SAnDReS 2.0.0 brings together the most advanced tools for protein-ligand docking
 <P>You should type all commands shown here in a Linux terminal. The easiest way to open a Linux terminal is to use the Ctrl+Alt+T key combination.</P>
 <P><B>Step 1.</B> Download <a href="https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Linux-x86_64.sh" title="Anaconda Installer for Linux">Anaconda Installer for Linux</a> or newer.</P>
 <P>Go to the directory where you have the installer file and type the following commands:
-<pre><I>    chmod u+x Anaconda3-2023.09-0-Linux-x86_64.sh
+<pre><I>    chmod a+x Anaconda3-2023.09-0-Linux-x86_64.sh
     ./Anaconda3-2023.09-0-Linux-x86_64.sh</I></pre>
 <P>Follow the instructions of the installer. You may use a newer installer, but be sure to have the right installer in the above command lines.
 </P>
@@ -16,7 +16,7 @@ SAnDReS 2.0.0 brings together the most advanced tools for protein-ligand docking
 <P>Type the following commands:
 <pre><I>    cd ~
     cp Downloads/ADFRsuite_Linux-x86_64_1.0_install .
-    chmod u+x ADFRsuite_Linux-x86_64_1.0_install
+    chmod a+x ADFRsuite_Linux-x86_64_1.0_install
     ./ADFRsuite_Linux-x86_64_1.0_install</I></pre>
 <P>Follow the instructions of the installer. You need to add the path of ADFRsuite to your .bashrc (e.g.,PATH="/home/walter/ADFRsuite-1.0/bin:$PATH"). You need to change to your user.</P>
 <P><B>Step 3.</B> To run SAnDReS 2.0 properly, you need <a href="https://scikit-learn.org/stable/" title="Scikit-Learn. Machine Learning in Python">Scikit-Learn</a> 1.4.0. To be sure you have version 1.4.0, open a terminal and type the following commands:
