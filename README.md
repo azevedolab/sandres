@@ -6,10 +6,10 @@ SAnDReS 2.0.0 brings together the most advanced tools for protein-ligand docking
 <P>&nbsp;</P>
 <H2>Installing SAnDReS (Linux)</H2>
 <P>You should type all commands shown here in a Linux terminal. The easiest way to open a Linux terminal is to use the Ctrl+Alt+T key combination.</P>
-<P><B>Step 1.</B> Download <a href="https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh" title="Anaconda Installer for Linux">Anaconda Installer for Linux</a> or newer.</P>
+<P><B>Step 1.</B> Download <a href="https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Linux-x86_64.sh" title="Anaconda Installer for Linux">Anaconda Installer for Linux</a> or newer.</P>
 <P>Go to the directory where you have the installer file and type the following commands:
-<pre><I>    chmod u+x Anaconda3-2021.11-Linux-x86_64.sh
-    ./Anaconda3-2021.11-Linux-x86_64.sh</I></pre>
+<pre><I>    chmod u+x Anaconda3-2023.09-0-Linux-x86_64.sh
+    ./Anaconda3-2023.09-0-Linux-x86_64.sh</I></pre>
 <P>Follow the instructions of the installer. You may use a newer installer, but be sure to have the right installer in the above command lines.
 </P>
 <P><B>Step 2.</B> Download ADFRsuite version 1.0 (<a href="https://ccsb.scripps.edu/adfr/downloads/" title="ADFRsuite 1.0 Linux 64 installer app">ADFRsuite 1.0 Linux 64 installer app</a>).</P>
