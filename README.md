@@ -6,8 +6,9 @@ SAnDReS 2.0.0 (<a href="https://doi.org/10.1002/jcc.27449" title="de Azevedo WF 
 <P>&nbsp;</P>
 <H2>How to Cite SAnDReS 2.0</H2>
 <a href = "https://pubmed.ncbi.nlm.nih.gov/38900052/" title = "de Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024; 45(27): 2333–2346">
-<img src="https://drive.usercontent.google.com/download?id=15c74Ezhm8CEciT8ZTK1tpVR6v3cZzsXT&export=view&authuser=0" width=200></a>
-<P>de Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024; 45(27): 2333–2346. <a href = "https://pubmed.ncbi.nlm.nih.gov/38900052/" title = "de Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024; 45(27): 2333–2346.">PubMed</a>
+<img src="https://drive.usercontent.google.com/download?id=15c74Ezhm8CEciT8ZTK1tpVR6v3cZzsXT&export=view&authuser=0" width=200 style="float: left; width: 225px;" class="float-left"></a>
+<P>
+de Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024; 45(27): 2333–2346. <a href = "https://pubmed.ncbi.nlm.nih.gov/38900052/" title = "de Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024; 45(27): 2333–2346.">PubMed</a>
 </P>
 <P>&nbsp;</P>
 <H2>Installing SAnDReS (Linux)</H2>
