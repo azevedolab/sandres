@@ -54,12 +54,12 @@ de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, 
 <pre><I>python3 sandres2.py</I></pre>
 <P>Now you have the GUI window for SAnDReS 2.0.0. That´s it, good SAnDReS session!</P>
 <br> </br>
-<h2><a href = "https://github.com/azevedolab/About-Me" title = "About Prof. Walter Filgueira de Azevedo, Jr."> About Me </a> </h2> 
+<h2><a href = "https://github.com/azevedolab/Bio" title = "Bio (Prof. Walter Filgueira de Azevedo, Jr.)"> Bio </a> </h2> 
 <a href="https://scholar.google.com/citations?user=HWwJXJUAAAAJ" title = "Link to Google Scholar">
 <img src="https://drive.usercontent.google.com/download?id=1rL_DWbMj6timTlYlhn9Hwm1acq8AU4QV&export=view&authuser=0" height=24 alt="Link to Google Scholar"></a>  
 <a href="https://www.scopus.com/authid/detail.uri?authorId=7006435557" title = "Link to Scopus">
 <img src="https://drive.usercontent.google.com/download?id=1URGO8UDkZV_4wX_4c0_gUvhEjfnUyqCQ&export=view&authuser=0" height=24 alt="Link to Scopus"></a>
-<a href="https://heyzine.com/flip-book/693998babe.html" title = "Link to Curriculum Vitae (Flipbook)">
+<a href="https://heyzine.com/flip-book/270be6d28b.html" title = "Link to Curriculum Vitae (Flipbook)">
 <img src="https://drive.usercontent.google.com/download?id=17kToUZlwbJ4PgorpUY7EGQA1lFnR_2Gh&export=view&authuser=0" height=24 alt="Link to Curriculum Vitae (Flipbook)"></a> 
 
 <br> </br>
